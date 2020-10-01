@@ -1,7 +1,7 @@
-### Looking for a nice job. 
-### Contact me if you...🤪
-----------
-#### Congratulations for Vue v3.0 🎉🎉🎉
+### The perfect team is founded, thanks for all of you guys. 🎉
+
+### May the world peaceful. 
+
 <!--
 **parrotdance/parrotdance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
