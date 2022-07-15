@@ -1,5 +1,4 @@
 ![Parrotdance's GitHub stats](https://github-readme-stats.vercel.app/api?username=parrotdance&count_private=true&theme=vue-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parrotdance&count_private=true&hide=vue&layout=compact&theme=vue-dark)](https://github.com/parrotdance/github-readme-stats)
 
 <!--
 **parrotdance/parrotdance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
